@@ -1,1 +1,1 @@
-Trying VIM editor for committing paragraph messages
+Trying SUBLIME editor for committing paragraph messages

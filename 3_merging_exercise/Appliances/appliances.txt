@@ -6,3 +6,4 @@ Flat Screen TV
 Heater
 Vacuum Cleaner
 Electric Oven
+Stove

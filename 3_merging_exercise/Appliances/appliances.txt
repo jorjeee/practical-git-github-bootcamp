@@ -7,3 +7,5 @@ Heater
 Vacuum Cleaner
 Coffee Maker
 Refrigerator
+Electric Oven
+

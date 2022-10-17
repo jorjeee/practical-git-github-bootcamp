@@ -2,3 +2,6 @@ Electric Fan
 Rice Cooker
 Aircon
 Washing Machine
+Flat Screen TV
+Heater
+Vacuum Cleaner

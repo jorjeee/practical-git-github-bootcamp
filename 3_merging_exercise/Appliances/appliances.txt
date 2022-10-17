@@ -5,3 +5,4 @@ Washing Machine
 Flat Screen TV
 Heater
 Vacuum Cleaner
+Electric Oven
